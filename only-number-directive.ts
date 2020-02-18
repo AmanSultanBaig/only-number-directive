@@ -1,3 +1,5 @@
+// *** NOTE: This is only allowing positive integers, adjust the regex to suit your needs
+
 import { Directive, ElementRef, HostListener } from '@angular/core';
 
 @Directive({
